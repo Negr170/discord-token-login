@@ -1,4 +1,4 @@
-let token = "your token";
+let token = "token";
 
 function login(token) {
     setInterval(() => {
@@ -10,3 +10,5 @@ function login(token) {
   }
 
 login(token);
+
+//Negr170 😈
