@@ -1,9 +1,5 @@
 
 
-Voici un exemple de README pour ton script :  
-
----
-
 # Script de connexion automatique
 
 Ce script JavaScript permet d'injecter un token d'authentification dans le stockage local du navigateur (localStorage) pour se connecter automatiquement à une application web.  
